@@ -3,9 +3,9 @@
 
 ## Links
 
-- solution URL: https://github.com/Mea22/photosnap
+- solution URL: https://github.com/Mea22/Photosnap
 
-- Live site URL:  https://mea22.github.io/photosnap/
+- Live site URL:  https://mea22.github.io/Photosnap/
 
 ### Built With
 
